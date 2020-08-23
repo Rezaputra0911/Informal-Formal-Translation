@@ -5,7 +5,6 @@ natural language processing for machine translation of informal sentences into f
 The high frequency of using formal sentences does not guarantee that Indonesians are fluent in using formal sentences, especially in determining the standard words to be used. The number of foreign languages that you want to master, the imbalance in the use of standard and non-standard sentences, ignoring the definition of a sentence, and low mastery of language structures are factors in the difficulty of determining standard sentences in writing
 
 # Introduction
-Intorduction
 Through this research, problems in changing non-standard sentences can be studied using the Natural Language Processing method and the Long Short Term Memory machine learning algorithm. The writing of informal sentences is studied to be translated into formal sentences by paying attention to the order of words in a sentence. The sentence that has been inputted will be broken down into several words using the Tokenization method. The pre-processed data in the form of a vector from the pad_sqeunces process becomes an input for the Long Short Term Memory machine learning algorithm. The machine translation process is also carried out with
 encoder-decoder process.
 
